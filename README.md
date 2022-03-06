@@ -22,7 +22,7 @@
    <img src="erd.JPG"/><br>
 
 ## 발표 ppt 
-[발표자료<img src="ppt.JPG"/>](/project.pptx)<br> 
+[발표자료<img src="ppt.JPG"/>](/2260341020_조재희.pdf)<br> 
 ## 시연 동영상  
 <iframe width="424" height="238" src="https://www.youtube.com/embed/reOGfxYJre0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
