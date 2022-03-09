@@ -1,25 +1,15 @@
 # -.
 과제 시연창. 
 # 과목명 
-과목의 개요 간단히 기술하세요.
+github에 관하여 학습하였습니다. 
 
 <br>
 # 과목 개요
- - ch1. 
- - ch2. 
- - ch3. 
+ - ch1. gitbash를 이용한 github 활용
+ - ch2. eclipse 연동을 이용한 github 활용
+ - ch3. sourcetree를 이용한 github 활용
 
-<br>
-# 과제 list
 
-<br>
-# 과제 1 - 주제
-과제 내용을 간략히 기술
-
-## 과제 스크린샷, ERD 다이어그램 등
-   <img src="architecture.png"/><br>
-   
-   <img src="erd.JPG"/><br>
 
 ## 발표 ppt 
 [발표자료<img src="ppt.JPG"/>](/2260341020_조재희.pdf)<br> 
@@ -28,16 +18,13 @@
 
 
 <br>
-# 과제 2 - 주제
-과제 내용을 간략히 기술
 
-## 과제 스크린샷,  ERD 다이어그램 등
-   <img src="architecture.png"/><br>
+
+## 과제 유튜브
+   <iframe width="896" height="504" src="https://www.youtube.com/embed/CVxhqDPNPZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
-   <img src="erd.JPG"/><br>
+  <iframe width="1424" height="551" src="https://www.youtube.com/embed/7H6BWGedAKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
-## 발표 ppt 
-[발표자료<img src="ppt.JPG"/>](/project.pptx)<br>
 ## 시연 동영상  
 <iframe width="424" height="238" src="https://www.youtube.com/embed/reOGfxYJre0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
