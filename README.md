@@ -46,6 +46,8 @@
 <br>
 #
 # 과목을 배우고 느낀점, 어려웠는데 극복한 경험,  
-  - 어떤 개념 1이 이해가 잘 안되었는데, 책과 인터넷도 찾아보고 친구들과 토의를 하여 개념이해를 정확히 하였다. 
-  - 프로그래밍 중에 버그가 안잡혀서 밤을 샜는데, 친구의 버그를 잡아주면서 대화를 하던 도중 갑자기 좋은 생각이 머리속을 스쳐지나가서 나의 버그의 해결방안을 찾았다.
-  - 어떤 개념을 직접 프로그래밍에서 활용해 보고, 이 기술을 쓰면 효율성이 향상되고, 안정성이 높아지는 것을 경험하였다.
+  - git에 관해 많이 들었지만 접할기회도 적고 개념자체가 익숙하지 않아 어려웠지만 교수님들과 동기들의 도움을 받아 이해할 수 있었다.
+  - git bash, eclipse, sourcetree 등을 이용해 github등에 push pull clone 할 수 있었습니다.  
+  - git에 관해 알기 전에는 협업과 프로젝트란 것들 자체가 막연했고 어려웠는데 어떤 방식으로 이루어지는지 알 수 있었습니다. 
+
+<iframe width="424" height="238" src="https://www.youtube.com/embed/reOGfxYJre0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe
