@@ -13,12 +13,17 @@ github에 관하여 학습하였습니다.
 
 
 ## 과제 유튜브
+
+
+
    <iframe width="600" height="300" src="https://www.youtube.com/embed/CVxhqDPNPZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
   <iframe width="600" height="300" src="https://www.youtube.com/embed/7H6BWGedAKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
-## 시연 동영상  
-<iframe width="424" height="238" src="https://www.youtube.com/embed/reOGfxYJre0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 
 
