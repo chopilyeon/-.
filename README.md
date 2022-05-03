@@ -34,4 +34,3 @@ github에 관하여 학습하였습니다.
   - git bash, eclipse, sourcetree 등을 이용해 github등에 push pull clone 할 수 있었습니다.  
   - git에 관해 알기 전에는 협업과 프로젝트란 것들 자체가 막연했고 어려웠는데 어떤 방식으로 이루어지는지 알 수 있었습니다. 
 
-<iframe width="424" height="238" src="https://www.youtube.com/embed/reOGfxYJre0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe
