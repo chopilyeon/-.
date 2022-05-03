@@ -13,8 +13,10 @@ github에 관하여 학습하였습니다.
  - ch3. sourcetree를 이용한 github 활용
 
 <br>
-# git에서의 명령어 정리 
+# git에서의 용어 정리 
 
+## REPESITORY
+repesitory는 저장소 개념입니다. 
 
 ## INIT
 폴더에서 init 명령어를 치게 되면 repesitory로 설정이 됩니다. 
@@ -55,6 +57,6 @@ GIT에는 MAIN과 BRANCH가 있습니다. 말 그대로 BRANCH는 가지같은 �
 
 ## 과목을 배우고 느낀점, 어려웠는데 극복한 경험,  
   - git에 관해 많이 들었지만 접할기회도 적고 개념자체가 익숙하지 않아 어려웠지만 교수님들과 동기들의 도움을 받아 이해할 수 있었다.
-  - git bash, eclipse, sourcetree 등을 이용해 github등에 push pull clone 할 수 있었습니다.  
+  - git bash, eclipse, sourcetree 등을 이용해 remote repesitory에 push pull clone 할 수 있었습니다.  
   - git에 관해 알기 전에는 협업과 프로젝트란 것들 자체가 막연했고 어려웠는데 어떤 방식으로 이루어지는지 알 수 있었습니다. 
 
