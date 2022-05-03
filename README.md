@@ -9,11 +9,6 @@ github에 관하여 학습하였습니다.
  - ch2. eclipse 연동을 이용한 github 활용
  - ch3. sourcetree를 이용한 github 활용
 
-
-## 시연 동영상  
-<iframe width="424" height="238" src="https://www.youtube.com/embed/reOGfxYJre0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 <br>
 
 
