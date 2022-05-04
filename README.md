@@ -7,7 +7,10 @@ github에 관하여 학습하였습니다.
 
 <br>
 
-## 과목 개요<br>
+## 과목 개요
+
+<br>
+
 
  - ch1. gitbash를 이용한 github 활용
  - ch2. eclipse 연동을 이용한 github 활용
@@ -15,7 +18,10 @@ github에 관하여 학습하였습니다.
 
 <br>
 
-# git에서의 용어 정리<br> 
+# git에서의 용어 정리
+
+<br> 
+
 
 ## REPESITORY<br>
 repesitory는 저장소 개념입니다. 
