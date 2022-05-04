@@ -6,31 +6,33 @@
 github에 관하여 학습하였습니다. 
 
 <br>
-## 과목 개요
+
+## 과목 개요<br>
 
  - ch1. gitbash를 이용한 github 활용
  - ch2. eclipse 연동을 이용한 github 활용
  - ch3. sourcetree를 이용한 github 활용
 
 <br>
-# git에서의 용어 정리 
 
-## REPESITORY
+# git에서의 용어 정리<br> 
+
+## REPESITORY<br>
 repesitory는 저장소 개념입니다. 
 
-## INIT
+## INIT<br>
 폴더에서 init 명령어를 치게 되면 repesitory로 설정이 됩니다. 
 
-## COMMIT
+## COMMIT<br>
 제가 변경한 내용들을 저장하는 명령어입니다. 
 
-## PUSH
+## PUSH<br>
 PUSH는 제가 COMMIT한 내용들을 보내주는 명령어입니다.  
 
-## PULL
+## PULL<br>
 PULL은 remote repesitory의 변경사항들을 제 repesitory에 가지고 와서 Merge 시키는 명령어입니다. 
 
-## BRANCH
+## BRANCH<br>
 GIT에는 MAIN과 BRANCH가 있습니다. 말 그대로 BRANCH는 가지같은 개념이고, 버전관리를 위해 MAIN과 다른 repesitory로 가지치기를 해서 사용합니다. 추후에 MERGE해서 MAIN과 합칠 수 있습니다.  
 
 ## *git checkout barnch_name을 하게 되면 window의 gui 환경도 변하게 됩니다
